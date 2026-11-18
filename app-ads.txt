@@ -1,0 +1,2 @@
+# app-ads.txt - RG - Rezix's Games Company
+google.com, pub-2715872617512058, DIRECT, f08c47fec0942fa0
